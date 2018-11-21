@@ -1,4 +1,4 @@
-# Novos comando com MarkDown
+# Novos comandos com MarkDown
 
 Teste de *itálico*.
 
