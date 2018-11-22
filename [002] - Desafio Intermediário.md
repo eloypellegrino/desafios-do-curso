@@ -1,4 +1,4 @@
-# Alterada a fonte do `h1` e `a``
+# Alterada a fonte do `h1` e `a`
 
 Fonte do GoogleFonts vinculada pelo `link` no arquivo `index.html`
 
